@@ -1,0 +1,20 @@
+const Icons = {
+  add: require('./add.png'),
+  search: require('./search.png'),
+  camera: require('./camera.png'),
+  gallery: require('./gallery.png'),
+  profile: require('./profile.png'),
+  delete: require('./delete.png'),
+  fill: require('./fill.png'),
+  outline: require('./outline.png'),
+  show: require('./show.png'),
+  hide: require('./hide.png'),
+  sort_asc: require('./sort_asc.png'),
+  sort_desc: require('./sort_desc.png'),
+  logo: require('./logo.png'),
+  forget: require('./forget.jpg'),
+  more: require('./more.png'),
+  user: require('./user.png'),
+  logout: require('./logout.png'),
+};
+export default Icons;

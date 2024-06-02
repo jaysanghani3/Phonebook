@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Image
+    source={
+      {
+        "testUri": "../../../src/assets/logo.png",
+      }
+    }
+    style={
+      {
+        "height": 100,
+        "width": 100,
+      }
+    }
+  />
+  <Text
+    style={
+      {
+        "color": "#66347f",
+        "fontSize": 50,
+        "fontWeight": "800",
+      }
+    }
+  >
+    Phone
+  </Text>
+</View>
+`;
